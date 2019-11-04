@@ -12,3 +12,18 @@ Version control is a system to track and save modifications of various versions 
 ### Distributed Version Control
 
 * DVCS (Distributed Version Control System) fixes a crucial vulnerability of a CVS. With CVS, the file is served in a centralized server. It has a single point of failure. If this centralized database goes down, files saved in that database is gone. DVCS allows host to create mirrored repo.
+
+### Git
+
+What is git? Git is a DVCS. It takes a snapchat of changed version of the file when commiting. Commit is an important keyword in Git. When you do a commit, it means you are saving a snapchat of the changed made and  stores a reference to it. Git also tracks every changes made to a file or directory.
+
+There are three main states where file can reside in Git;
+* Commited
+    * Changes made is securely saved in a database.
+* Modified
+    * File has been changed, but not saved to the database.
+* Staged
+    * Flagged a changed in file to be commited in the next snapshot.
+
+
+![A workflow of how Git works](img/git.png)
