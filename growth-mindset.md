@@ -18,7 +18,7 @@
   - [x] No Pain, No Gain
 
     
-  [Click here for a great article about growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+  [Click here for a great article about growth mindset.](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
   
   
   [Back to Main](README.md)
