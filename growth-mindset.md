@@ -16,6 +16,9 @@
   - [x] Step back, make a new plan on how to resolve the issue.
   - [x] Embrace the failure and just do it.
   - [x] No Pain, No Gain
+
+    
+  [Click here for a great article about growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
   
   
   [Back to Main](README.md)
