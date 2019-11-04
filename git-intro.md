@@ -27,3 +27,12 @@ There are three main states where file can reside in Git;
 
 
 ![A workflow of how Git works](img/git.png)
+
+To get help with Git:
+* `git help command`
+* `git command --help`
+* `man git-command`
+
+For more info about Git, [click here.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2_4)
+
+[Back to Main](README.md)
