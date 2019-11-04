@@ -10,3 +10,4 @@ Welcome to my page. My name is Martin. I am a current codefellows student. I hav
 * [Choosing a Text Editor](text-editor.md)
 * [Cheatsheet](cheatsheet.md)
 * [Git Intro](git-intro.md)
+* [HTML](html.md)
