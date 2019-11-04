@@ -7,4 +7,4 @@ Welcome to my page. My name is Martin. I am a current codefellows student. I hav
 # Contents
 * [Growth Mindset](growth-mindset.md)
 * [Learning Markdown](learning-markdown.md)
-
+* [Choosing a Text Editor](text-editor.md)
